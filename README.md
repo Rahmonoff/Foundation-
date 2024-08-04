@@ -1,2 +1,2 @@
-# Foundation-
+# Foundation
 uyga vazifalari uchun python
